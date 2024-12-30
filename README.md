@@ -6,17 +6,19 @@ This project provides an in-depth analysis of the privacy and security practices
 The goal of this project is to identify key privacy issues, highlight inconsistencies in data handling, and provide a roadmap for improving security and privacy in the mHealth ecosystem.
 
 ## Research Questions
-The study investigates the following research questions (RQs):
 
-1. Apps that specify the types of data collected
-2. Apps that specify the types of data shared
-3. Apps that describe users' rights to access, correct, delete, or opt out of marketing communications
-4. Apps that mention data is encrypted during transit
-5. Apps that outline security measures against unauthorized access or breaches
-6. Apps that provide contact information for inquiries or complaints
-7. Apps that address children's data and parental consent
-8. Apps with privacy policy disclosures (i.e., no disclosures omitted)
-9. Apps that explain compliance with relevant privacy laws
+The study investigates the following research questions (RQs):
+- **RQ1:** *Are the types of personal data collected and their purposes clearly defined?*
+- **RQ2:** *Are the types of data shared with third parties specified, including their purposes and recipients?* 
+- **RQ3:** *Are users informed about their rights to access, correct, or delete their data, as well as to opt out of marketing communications?*
+- **RQ4:** *Is data encrypted during transmission?* 
+- **RQ5:** *Are security measures described to prevent unauthorized access or data breaches?*
+- **RQ6:** *Is contact information provided for addressing inquiries or complaints?* 
+- **RQ7:** *Are children’s data and parental consent requirements explicitly addressed?* 
+- **RQ8:** *Does the privacy policy disclosure for each app appear clear, vague, or entirely omitted?* 
+- **RQ9:** *Are relevant privacy laws adequately explained?* 
+- **RQ10:** *What factors influence the privacy compliance and security measures of mHealth apps?* 
+- **RQ11:** *What are the key issues in mHealth apps, and what exemplary practices can app developers adopt?* 
 
 ## Methodology
 The analysis uses both static and dynamic approaches:
